@@ -1,4 +1,4 @@
-name: ci-cd-k8s
+name: ci-k8s
 
 on:
   # push:
