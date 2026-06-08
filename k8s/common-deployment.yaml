@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
       - name: common-app
-        image: daisuke8076/common-app:1.0.4
+        image: daisuke8076/common-app:1.0.1
         ports:
         - containerPort: 80
